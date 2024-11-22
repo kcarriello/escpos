@@ -1,4 +1,4 @@
-module epos-server
+module github.com/kcarriello/escpos/epos-server
 
 go 1.12
 
