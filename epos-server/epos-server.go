@@ -11,7 +11,7 @@ import (
 	"os"
 
 	"github.com/gorilla/mux"
-	"github.com/knq/escpos"
+	"github.com/kcarriello/escpos"
 	"github.com/moovweb/gokogiri"
 	"github.com/moovweb/gokogiri/xml"
 	"github.com/moovweb/gokogiri/xpath"
